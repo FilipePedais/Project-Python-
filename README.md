@@ -8,4 +8,5 @@ Este projeto faz parte dos meus estudos na faculdade. Ele foi desenvolvido em Py
 
 ## Tecnologias usadas
 -**liguagem**: Python
+
 -**Ferramenta**: VS Code, Google Colab e pycharm 
